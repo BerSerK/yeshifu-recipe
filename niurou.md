@@ -1,4 +1,4 @@
-### 1. 咖喱炖牛肉 (Curry Beef Stew)
+### 咖喱炖牛肉 (Curry Beef Stew)
 
 #### 材料 (Ingredients)
 - 牛肉 (Beef) - 500克 (500 grams)

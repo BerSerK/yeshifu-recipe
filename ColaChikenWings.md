@@ -1,4 +1,4 @@
-### 2. 可乐鸡翅 (Cola Chicken Wings)
+### 可乐鸡翅 (Cola Chicken Wings)
 
 #### 材料 (Ingredients)
 - 鸡翅 (Chicken Wings) - 10个 (10 pieces)
