@@ -8,3 +8,4 @@
 6. [清水煮虾](./xia.md)
 7. [煎带鱼](./daiyu.md)
 8. [沙拉](./sala.md)
+9. [小鸡炖蘑菇](./XiaoJiDunMoGu.md)
